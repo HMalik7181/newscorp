@@ -1,0 +1,88 @@
+﻿,Ad Hoc Analysis,,,,,
+Company: News Corp AU,,,,,,
+Report Suite: News Corp AU Global,,,,,,
+"Date Range: Jan 1, 2019 - Dec 31, 2019",,,,,,
+AU News.com.au,,,,,,
+,,,,,,
+Segments,,,,,,
+,,,,,,
+NEWS.COM.AU,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,AA: p2 Brand - Newscomau,Referrer Type,Total,"691,826,758","276,223,128","415,392,823"
+Segments,AA: p2 Brand - Newscomau,Referrer Type,Other Web Sites,"39,981,629","15,249,458","24,725,591"
+Segments,AA: p2 Brand - Newscomau,Referrer Type,Search Engines,"149,427,794","74,576,254","74,763,578"
+Segments,AA: p2 Brand - Newscomau,Referrer Type,Social Networks,"91,414,610","12,717,312","78,684,362"
+Segments,AA: p2 Brand - Newscomau,Referrer Type,Typed/Bookmarked,"411,002,724","173,680,105","237,219,292"
+,,,,,,
+NEWS.COM.AU - ENTERTAINMENT,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Entertainment,Referrer Type,Total,"49,488,216","14,439,398","35,030,296"
+Segments,Section - Entertainment,Referrer Type,Other Web Sites,"8,151,165","2,097,974","6,052,066"
+Segments,Section - Entertainment,Referrer Type,Search Engines,"11,500,543","7,725,495","3,763,123"
+Segments,Section - Entertainment,Referrer Type,Social Networks,"24,398,856","2,784,514","21,611,443"
+Segments,Section - Entertainment,Referrer Type,Typed/Bookmarked,"5,437,651","1,831,414","3,603,664"
+,,,,,,
+NEWS.COM.AU - FINANCE,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Finance,Referrer Type,Total,"24,038,097","9,543,793","14,487,954"
+Segments,Section - Finance,Referrer Type,Other Web Sites,"3,223,556","1,524,886","1,698,316"
+Segments,Section - Finance,Referrer Type,Search Engines,"6,615,660","5,124,011","1,488,086"
+Segments,Section - Finance,Referrer Type,Social Networks,"10,252,247","1,316,080","8,934,745"
+Segments,Section - Finance,Referrer Type,Typed/Bookmarked,"3,946,634","1,578,817","2,366,807"
+,,,,,,
+NEWS.COM.AU - LIFESTYLE,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Lifestyle,Referrer Type,Total,"33,401,395","8,192,854","25,198,594"
+Segments,Section - Lifestyle,Referrer Type,Other Web Sites,"3,947,869","1,055,481","2,891,863"
+Segments,Section - Lifestyle,Referrer Type,Search Engines,"5,142,078","3,617,993","1,519,200"
+Segments,Section - Lifestyle,Referrer Type,Social Networks,"20,483,513","2,313,416","18,167,037"
+Segments,Section - Lifestyle,Referrer Type,Typed/Bookmarked,"3,827,935","1,205,965","2,620,494"
+,,,,,,
+NEWS.COM.AU - NATIONAL,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - National,Referrer Type,Total,"30,136,875","12,602,205","17,523,801"
+Segments,Section - National,Referrer Type,Other Web Sites,"4,287,882","1,832,264","2,455,110"
+Segments,Section - National,Referrer Type,Search Engines,"11,758,325","7,098,591","4,652,878"
+Segments,Section - National,Referrer Type,Social Networks,"8,515,176","1,256,965","7,256,873"
+Segments,Section - National,Referrer Type,Typed/Bookmarked,"5,575,492","2,414,386","3,158,940"
+,,,,,,
+NEWS.COM.AU - SPORT,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Sport,Referrer Type,Total,"29,329,060","11,244,211","18,066,447"
+Segments,Section - Sport,Referrer Type,Other Web Sites,"4,889,421","1,267,211","3,621,393"
+Segments,Section - Sport,Referrer Type,Search Engines,"11,185,834","7,374,261","3,798,262"
+Segments,Section - Sport,Referrer Type,Social Networks,"8,770,609","1,099,160","7,670,367"
+Segments,Section - Sport,Referrer Type,Typed/Bookmarked,"4,483,196","1,503,579","2,976,425"
+,,,,,,
+NEWS.COM.AU - TECHNOLOGY,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Technology,Referrer Type,Total,"14,457,399","5,798,821","8,651,649"
+Segments,Section - Technology,Referrer Type,Other Web Sites,"2,524,225","1,113,314","1,410,556"
+Segments,Section - Technology,Referrer Type,Search Engines,"4,170,260","3,076,198","1,089,629"
+Segments,Section - Technology,Referrer Type,Social Networks,"5,344,628","756,972","4,586,588"
+Segments,Section - Technology,Referrer Type,Typed/Bookmarked,"2,418,287","852,337","1,564,875"
+,,,,,,
+NEWS.COM.AU - TRAVEL,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - Travel,Referrer Type,Total,"12,297,968","3,508,188","8,786,933"
+Segments,Section - Travel,Referrer Type,Other Web Sites,"1,852,326","670,662","1,181,461"
+Segments,Section - Travel,Referrer Type,Search Engines,"1,897,055","1,348,455","547,450"
+Segments,Section - Travel,Referrer Type,Social Networks,"6,833,635","835,633","5,997,082"
+Segments,Section - Travel,Referrer Type,Typed/Bookmarked,"1,714,952","653,438","1,060,939"
+,,,,,,
+NEWS.COM.AU - WORLD,,,,,,
+,,,,Referrer Instances,,
+Dimension,Item,Dimension,Item,Total,Desktop/Tablet,Mobile
+Segments,Section - World,Referrer Type,Total,"11,770,045","4,356,144","7,410,285"
+Segments,Section - World,Referrer Type,Other Web Sites,"2,309,833","1,142,796","1,166,759"
+Segments,Section - World,Referrer Type,Search Engines,"3,847,778","1,851,674","1,994,117"
+Segments,Section - World,Referrer Type,Social Networks,"3,345,258","420,100","2,924,615"
+Segments,Section - World,Referrer Type,Typed/Bookmarked,"2,267,176","941,574","1,324,793"
